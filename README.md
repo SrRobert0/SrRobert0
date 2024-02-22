@@ -8,4 +8,4 @@
 
 ## Tecnologias que uso
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,vite,mysql,java,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,c,mysql,java,git)](https://skills.thijs.gg)
